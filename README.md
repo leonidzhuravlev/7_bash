@@ -131,4 +131,5 @@ $ curl -X GET https://petstore.swagger.io/v2/pet/findByStatus?status=available
 
 17. Используя POST и команду curl, создайте нового пользователя на https://petstore.swagger.io/
 $ curl -X POST -H "Content-Type: application/json" -d '{"id": 321, "username": "LeoCrane", "firstName": "Leo", "lastName": "Crane", "email": "leocrane@example.com", "password": "qwerty123", "phone": "202030304040"}' https://petstore.swagger.io/v2/user
+
 ```
