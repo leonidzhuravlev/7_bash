@@ -1,4 +1,4 @@
-# 📌 bash common commands
+# bash common commands✂️
 
 ## Task 1
 #### Working with files and directories
